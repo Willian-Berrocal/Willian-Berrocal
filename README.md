@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 💪 Working hard in becoming a web developer, it's my passion ✨
-- ⚽ I'm a big Liverpool FC fan
-- 😸 I really love cats and small dogs, they're cute 🥰
+- 💻 Front-end Developer
+- ⚽ Big Liverpool FC fan
+- 😸 Love cats and small dogs
 
 <!--
 **Willian-Berrocal/Willian-Berrocal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
