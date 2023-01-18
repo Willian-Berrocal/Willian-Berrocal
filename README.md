@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 💻 Front-end Developer
 - ⚽ Big Liverpool FC fan
 - 😸 Love cats and small dogs
 
